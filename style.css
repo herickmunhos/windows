@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color:black;}
+    img {width: 850px;
+        height: 600px;
+        border-style: groove;
+        border-radius: 10px;
+        border-color: blue;}
+        p{font-size: 40px;
+            color: aliceblue;
+            font-family:gray}
+            h1{font-size: 100;
+            color: honeydew;
+            font-family: blue;}
+            a{font-size: 50;
+                color: chartreuse;
+                font-family: blue;}
+                iframe{border-radius: 10px;
+                    border-style: groove;
+                    border-width: 10px;
+                    border-color: blue;}
+        
+
+        
+        
